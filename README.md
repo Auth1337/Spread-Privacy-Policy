@@ -11,6 +11,11 @@
 - Server IDS for server's data(welcome message, autorole config, selfrole config, vanity thanks message, vanity url code)
 - data are stored & secured using AES Encryption standards.
 
+# Does it see our messages?
+
+- Bot checks your message, it contains blacklisted word or not for automod, anti-blacklist words
+- For server logging it sends that message to logging channel of server, if logging is enabled and message contains blacklisted word, links, message is edited.
+
 # Who can access the server data?
 
 - Server Owner
@@ -45,4 +50,4 @@
 
 **Thank you for using our service**
 
-#### **Last Changed `29th September 2022, Thursday 9:25PM`**
+#### **Last Changed `29th September 2022, Thursday 9:20PM`**
