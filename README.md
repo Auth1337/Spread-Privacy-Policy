@@ -13,7 +13,7 @@
 
 # Does it see our messages?
 
-- Bot checks your message, it contains blacklisted word or not for automod, anti-blacklist words
+- Bot checks your message, it contains blacklisted word or not for automod, anti-blacklist words and Auto Sub Proof System
 - For server logging it sends that message to logging channel of server, if logging is enabled and message contains blacklisted word, links, message is edited.
 
 # Who can access the server data?
